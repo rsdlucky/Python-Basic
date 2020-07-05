@@ -1,2 +1,2 @@
 # Python-data-types
-this file contains all data types
+Basics of Python
