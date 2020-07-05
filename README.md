@@ -1,2 +1,2 @@
-# Python-data-types
+# Python-Basic-concepts
 Basics of Python
