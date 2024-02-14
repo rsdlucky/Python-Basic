@@ -1,2 +1,2 @@
 # Python-Basic-concepts
-Basics of Python-data-science
+Python programming concepts
